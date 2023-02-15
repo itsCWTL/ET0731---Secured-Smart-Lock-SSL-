@@ -19,11 +19,13 @@ Before running any code, there cetain requirements to take note. Firstly for the
    <BLEUtils.h><br>
    <BLE2902.h><br>
    <WiFi.h><br>
-   <iostream><br>
    <math.h><br>
-   <string><br>
-   <AES.h>    //
+   <AES.h><br>
    <ThingSpeak.h>
+ 3. AES Encryption KEY and Initialization Vector must be the same for ESP32 and ANDROID<br>
+   Test Key: 2b7e151628aed2a6abf7158809cf4f3c //Byte Hex format: 0x2b, 0x7e, 0x15, 0x16, 0x28, 0xae, 0xd2, 0xa6, 0xab, 0xf7, 0x15, 0x88, 0x09, 0xcf, 0x4f, 0x3c,<br> 
+   Test IV : 000102030405060708090A0B0C0D0E0F //Byte Hex format: 0x00, 0x01, 0x02, 0x03, 0x04, 0x05, 0x06, 0x07, 0x08, 0x09, 0x0A, 0x0B, 0x0C, 0x0D, 0x0E, 0x0F,<br>
+ 4. 
       
 Link to Google Sites: https://sites.google.com/view/securedsmartlockssl/home <br>
 Link to second version of report (Final report): <a href="https://github.com/itsCWTL/ET0731---Secured-Smart-Lock-SSL-/blob/main/Grp2_ver1.pdf">Final report</a><br>
