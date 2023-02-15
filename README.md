@@ -7,21 +7,21 @@ Brief concept: In order to ensure that users can easily unlock their Secured Sma
 
 Code Requirements:
 Before running any code, there cetain requirements to take note. Firstly for the ESP32:<br>
-1. Board: "DOIT ESP32 DEVKIT V1"
-   Upload Speed: "115200"
-   Flash Frequency: "80MHz"
-   Partition Scheme: "No OTA (Large APP)"  // DEFAULT PARTITION SCHEME OF ESP32 IS INSUFFICIENT FOR SECURED SMART LOCK MEMORY USAGE => PROVIDE MORE MEMORY SPACE
-2. Arduino IDE Libraries Used/Installed:
-   <Keypad.h>
-   <ESP32Servo.h>
-   <BLEDevice.h>
-   <BLEServer.h>
-   <BLEUtils.h>
-   <BLE2902.h>
-   <WiFi.h>
-   <iostream>
-   <math.h>
-   <string>
+1. Board: "DOIT ESP32 DEVKIT V1"<br>
+   Upload Speed: "115200"<br>
+   Flash Frequency: "80MHz"<br>
+   Partition Scheme: "No OTA (Large APP)"  // DEFAULT PARTITION SCHEME OF ESP32 IS INSUFFICIENT FOR SECURED SMART LOCK MEMORY USAGE => PROVIDE MORE MEMORY SPACE<br>
+2. Arduino IDE Libraries Used/Installed:<br>
+   <Keypad.h><br>
+   <ESP32Servo.h><br>
+   <BLEDevice.h><br>
+   <BLEServer.h><br>
+   <BLEUtils.h><br>
+   <BLE2902.h><br>
+   <WiFi.h><br>
+   <iostream><br>
+   <math.h><br>
+   <string><br>
    <AES.h>    //
    <ThingSpeak.h>
       
