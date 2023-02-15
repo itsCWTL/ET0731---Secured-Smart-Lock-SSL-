@@ -33,4 +33,5 @@ Link to presentation slides: <a href="https://github.com/itsCWTL/ET0731---Secure
 Link to the ESP32 arduino code: <a href="https://github.com/itsCWTL/ET0731---Secured-Smart-Lock-SSL-/blob/main/IOTS_Project_Group2_Code_Finalver2.ino">Arduino code</a><br>
 Link to the Door Lock android app app: <a href="https://github.com/itsCWTL/ET0731---Secured-Smart-Lock-SSL-/blob/main/DoorUnlock.apk">App</a><br>
 Link to the Door Lock android app code: <a href="https://github.com/itsCWTL/ET0731---Secured-Smart-Lock-SSL-/blob/main/DoorUnlock.zip">Java code</a><br>
+Link to demonstration video: <a href="https://github.com/itsCWTL/ET0731---Secured-Smart-Lock-SSL-/blob/main/IOTS%20video.mp4">Video</a><br>
 Link to first version of the report (Proposal): <a href="https://github.com/itsCWTL/ET0731---Secured-Smart-Lock-SSL-/blob/main/Grp2_ver1.pdf">Project porposal</a>
